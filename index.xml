@@ -5,12 +5,159 @@
     <link>https://dnkent.github.io/</link>
       <atom:link href="https://dnkent.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Kent</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 04 Aug 2019 22:46:22 -0400</lastBuildDate>
     <image>
-      <url>https://dnkent.github.io/img/daniel.png</url>
+      <url>https://dnkent.github.io/img/icon-192.png</url>
       <title>Daniel Kent</title>
       <link>https://dnkent.github.io/</link>
     </image>
+    
+    <item>
+      <title>Math Workshop 2019</title>
+      <link>https://dnkent.github.io/talk/math-workshop-2019/</link>
+      <pubDate>Sun, 04 Aug 2019 22:46:22 -0400</pubDate>
+      <guid>https://dnkent.github.io/talk/math-workshop-2019/</guid>
+      <description>
+
+&lt;hr /&gt;
+
+&lt;p&gt;Many thanks to &lt;a href=&#34;https://www.asrosenberg.com/mathcamp&#34; target=&#34;_blank&#34;&gt;Drew Rosenberg&lt;/a&gt; for designing this course. Any deficiencies are certainly due to my own tinkering.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;The course syllabus is available &lt;a href=&#34;https://dnkent.github.io/files/math_camp_syllabus.pdf&#34;&gt;here&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Course Description: The purpose of this workshop is to provide incoming first year Ph.D. students with some fundamental skills in various mathematical techniques that are used in political science, regardless of sub-specialty, and generally to prepare students for the first-year methods sequence. The workshop is also open to continuing students who feel that they would gain from participating in the course. This year the course will begin on Monday August 5th and run every weekday until Friday August 16th. Class sessions are tentatively scheduled to run from 09:00-12:30 with approximately a 20-30 minute break in between two 1.5 hour sessions. In addition, an optional introductory sequence to R computing is provided.&lt;/p&gt;
+
+&lt;p&gt;This workshop has a &amp;ldquo;semi-flipped&amp;rdquo; format, which means that I expect you to watch videos and do some reading ahead of each class. Each day I lecture on topics and sub-topics that I think need extra attention. Group work and other activities follow the lectures.&lt;/p&gt;
+
+&lt;p&gt;Below is the schedule and the appropriate videos to watch before each session. These videos are meant to supplement textbook reading, and spur class discussion. All of the videos are freely available from Khan Academy and YouTube. These videos are a minimum for each topic; however, going through additional ones, particularly for advanced topics, is suggested. Also, keep in mind that videos get taken down all the time for various reasons. If one is not available, then please let me know and do your best to find a replacement.&lt;/p&gt;
+
+&lt;h3 id=&#34;day-1-intro-notation-and-definitions-and-some-basic-mathematics&#34;&gt;Day 1: Intro, Notation and Definitions, and Some Basic Mathematics&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Read &lt;a href=&#34;https://dnkent.github.io/files/even_geniuses_work_hard.pdf&#34;&gt;this&lt;/a&gt; essay by Carol Dweck, &amp;ldquo;Even Geniuses Work Hard.&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Read &lt;a href=&#34;https://dnkent.github.io/files/schwartz.pdf&#34;&gt;this&lt;/a&gt;  short essay. Schwartz, Martin A. 2008. &amp;ldquo;The importance of stupidity in scientific research.&amp;rdquo; The Journal of Cell Science 121: 1771. DOI:&lt;a href=&#34;10.1242/jcs.033340&#34; target=&#34;_blank&#34;&gt;10.0.4.218/jcs.033340&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Watch &lt;a href=&#34;https://www.youtube.com/watch?v=IUTGFQpKaPU&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt; video.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;day-2-more-basic-mathematics&#34;&gt;Day 2: More Basic Mathematics&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5jwXThH6fg4&#34; target=&#34;_blank&#34;&gt;Summation operator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qlRGuP2Yy64&#34; target=&#34;_blank&#34;&gt;Product operator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=4j66DS_XTSo&#34; target=&#34;_blank&#34;&gt;Factorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=XqQTXW7XfYA&#34; target=&#34;_blank&#34;&gt;Permutations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=bCxMhncR7PU&#34; target=&#34;_blank&#34;&gt;Combinations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=wVWQWEta1rE&#34; target=&#34;_blank&#34;&gt;Solving equations of one variable&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=iiwY1qxsmR0&#34; target=&#34;_blank&#34;&gt;Solving equations of multiple variables&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=VgDe_D8ojxw&#34; target=&#34;_blank&#34;&gt;Inequalities&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=i7idZfS8t8w&#34; target=&#34;_blank&#34;&gt;Quadratic formula&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=55G8037gsKY&#34; target=&#34;_blank&#34;&gt;Solving for roots&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=IKyUuvulIbk&#34; target=&#34;_blank&#34;&gt;Factoring&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Z5myJ8dg_rM&#34; target=&#34;_blank&#34;&gt;Logarithms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=PupNgv49_WY&#34; target=&#34;_blank&#34;&gt;Log rules I&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=PupNgv49_WY&#34; target=&#34;_blank&#34;&gt;Log rules II&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Kr16rdBMX4o&#34; target=&#34;_blank&#34;&gt;Exponents and rules&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=dsySragIVEk&#34; target=&#34;_blank&#34;&gt;e and natural log&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;day-3-linear-algebra-1&#34;&gt;Day 3: Linear Algebra 1&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/precalculus/precalc-matrices/intro-to-matrices/v/introduction-to-the-matrix&#34; target=&#34;_blank&#34;&gt;Intro to matrices&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/precalculus/precalc-matrices/representing-systems-with-matrices/a/representing-systems-with-matrices&#34; target=&#34;_blank&#34;&gt;Linear equations and linear systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/precalculus/precalc-matrices/elementary-matrix-row-operations/a/matrix-row-operations&#34; target=&#34;_blank&#34;&gt;Elementary matrix row operations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/precalculus/precalc-matrices/adding-and-subtracting-matrices/v/matrix-addition-and-subtraction-1&#34; target=&#34;_blank&#34;&gt;Adding and subtracting matrices&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/precalculus/precalc-matrices/properties-of-matrix-addition-and-scalar-multiplication/a/properties-of-matrix-scalar-multiplication&#34; target=&#34;_blank&#34;&gt;Properties of matrix scalar multiplication&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/v/matrix-multiplication-intro&#34; target=&#34;_blank&#34;&gt;Matrix multiplication&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/vector-dot-product-and-vector-length&#34; target=&#34;_blank&#34;&gt;Dot product I&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/proving-vector-dot-product-properties&#34; target=&#34;_blank&#34;&gt;Dot product II&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-transpose-of-a-matrix&#34; target=&#34;_blank&#34;&gt;Transpose&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;day-4-linear-algebra-ii&#34;&gt;Day 4: Linear Algebra II&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/precalculus/precalc-matrices/properties-of-matrix-addition-and-scalar-multiplication/a/intro-to-zero-matrices&#34; target=&#34;_blank&#34;&gt;Zero matrices&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=3cnIa0fYJkY&#34; target=&#34;_blank&#34;&gt;Identity matrix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=PD-1C40ri98&#34; target=&#34;_blank&#34;&gt;Idempotent matrix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence/v/linear-algebra-introduction-to-linear-independence&#34; target=&#34;_blank&#34;&gt;Linear dependence/independence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-combinations/v/linear-combinations-and-span&#34; target=&#34;_blank&#34;&gt;Linear combinations and span&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/matrices-elimination/v/matrices-reduced-row-echelon-form-1&#34; target=&#34;_blank&#34;&gt;Reduced row/row echelon form&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/precalculus/precalc-matrices/row-echelon-and-gaussian-elimination/v/matrices-reduced-row-echelon-form-2&#34; target=&#34;_blank&#34;&gt;Solving systems with RREF&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;day-5-linear-algebra-iii&#34;&gt;Day 5: Linear Algebra III&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/precalculus/precalc-matrices/intro-to-matrix-inverses/v/inverse-matrix-part-1&#34; target=&#34;_blank&#34;&gt;Matrix inversion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UqyN7-tRS00&#34; target=&#34;_blank&#34;&gt;Conditions for non singularity (or, when can&amp;rsquo;t you invert?)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/precalculus/precalc-matrices/solving-equations-with-inverse-matrices/v/matrix-equations-systems&#34; target=&#34;_blank&#34;&gt;Solving equations with inverses&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/algebra-home/precalculus/precalc-matrices/determinant-of-2x2-matrix/v/finding-the-determinant-of-a-2x2-matrix&#34; target=&#34;_blank&#34;&gt;Determinant&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ih0UdNoypUw&#34; target=&#34;_blank&#34;&gt;Trace&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/dimension-of-the-column-space-or-rank&#34; target=&#34;_blank&#34;&gt;Matrix rank&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;day-6-calculus-i-introduction-to-differentiation&#34;&gt;Day 6: Calculus I (Introduction to Differentiation)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1mlkc3Pfxu4&#34; target=&#34;_blank&#34;&gt;The difference quotient&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/differential-calculus/dc-diff-intro/dc-secant-lines/v/slope-of-a-line-secant-to-a-curve&#34; target=&#34;_blank&#34;&gt;Slope of a line secant to a curve&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-2/v/calculus-derivatives-1-new-hd-version&#34; target=&#34;_blank&#34;&gt;The derivative&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=SFjyhIe_rUo&#34; target=&#34;_blank&#34;&gt;The derivative from the difference quotient&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=SFjyhIe_rUo&#34; target=&#34;_blank&#34;&gt;The power rule&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new/ab-3-1a/v/chain-rule-introduction&#34; target=&#34;_blank&#34;&gt;The chain rule (all videos on this link)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-8/v/applying-the-product-rule-for-derivatives&#34; target=&#34;_blank&#34;&gt;The product rule&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new/ab-diff-2-optional/v/quotient-rule-from-product-rule&#34; target=&#34;_blank&#34;&gt;The quotient rule&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=3nQejB-XPoY&#34; target=&#34;_blank&#34;&gt;Derivative of exponential and log functions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;day-7-calculus-ii-more-differentiation&#34;&gt;Day 7: Calculus II (More Differentiation)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivatives/v/partial-derivatives-introduction&#34; target=&#34;_blank&#34;&gt;Partial differentiation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-2/v/introduction-to-limits-hd&#34; target=&#34;_blank&#34;&gt;Intro to limits&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-2/v/introduction-to-limits-hd&#34; target=&#34;_blank&#34;&gt;Limits and infinity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-diff-1-optional/v/differentiability-implies-continuity&#34; target=&#34;_blank&#34;&gt;Differentiability and continuity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jSRN0yxiD1o&#34; target=&#34;_blank&#34;&gt;Higher derivatives&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;day-8-calculus-iii-optimization-and-constrained-optimization&#34;&gt;Day 8: Calculus III (Optimization and Constrained Optimization)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-analytical-applications-new/ab-5-2/v/minima-maxima-and-critical-points&#34; target=&#34;_blank&#34;&gt;Definition of extreme values&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OM2P8bzixBw&#34; target=&#34;_blank&#34;&gt;Relative minima and maxima&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-analytical-applications-new/ab-5-6a/v/concavity-concave-upwards-and-concave-downwards-intervals&#34; target=&#34;_blank&#34;&gt;Concavity and second derivatives&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-analytical-applications-new/ab-5-6a/v/inflection-points&#34; target=&#34;_blank&#34;&gt;Inflection points&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ry9cgNx1QV8&#34; target=&#34;_blank&#34;&gt;Constrained optimization and Lagrange multipliers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=sy132cgqaiU&#34; target=&#34;_blank&#34;&gt;Polynomial approximation of a function I&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=3JG3qn7-Sac&#34; target=&#34;_blank&#34;&gt;Polynomial approximation of a function II&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1LxhXqD3_CE&#34; target=&#34;_blank&#34;&gt;Taylor series approximation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;day-9-calculus-iv-integration&#34;&gt;Day 9: Calculus IV (Integration)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=a4LhQw2_LIk&#34; target=&#34;_blank&#34;&gt;Antidifferentiating&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=CXCtqBlEZ7g&#34; target=&#34;_blank&#34;&gt;Areas and Reimann sums&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=xRspb-iev-g&#34; target=&#34;_blank&#34;&gt;Indefinite integrals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0RdI3-8G4Fs&#34; target=&#34;_blank&#34;&gt;Definite integrals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=C7ducZoLKgw&#34; target=&#34;_blank&#34;&gt;Fundamental theorem of calculus&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;day-10-calculus-v-more-integration&#34;&gt;Day 10: Calculus V (More Integration)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=b76wePnIBdU&#34; target=&#34;_blank&#34;&gt;Integration by substitution&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=dqaDSlYdRcs&#34; target=&#34;_blank&#34;&gt;Integration by parts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=85-HNJyuyrU&#34; target=&#34;_blank&#34;&gt;Improper integrals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://static1.squarespace.com/static/54d4ff15e4b0b97e05ea8f13/t/578d1027579fb360acc8a625/1468862503635/IFEM.AppF.pdf&#34; target=&#34;_blank&#34;&gt;Intro to calculus on matrices&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
