@@ -19,9 +19,6 @@
       <guid>https://dnkent.github.io/post/measuring-international-dissatisfaction/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Full Dissertation: &lt;a href=&#34;https://dnkent.github.io/files/kent_dissertation.pdf&#34;&gt;Essays on Machine Learning in International Conflict and Social Networks&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
 &lt;p&gt;Chapter 1: &lt;a href=&#34;https://dnkent.github.io/files/kent_chapter1.pdf&#34;&gt;Measuring International Dissatisfaction&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -29,8 +26,6 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Chapter 3: &lt;a href=&#34;https://dnkent.github.io/files/kent_chapter3.pdf&#34;&gt;Estimating Heterogeneous Spillover Effects&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;This dissertation leverages developments in machine learning methods to better model networked social processes, with an emphasis on international politics. The first chapter develops a dataset with estimates for every country&amp;rsquo;s level of dissatisfaction with the international system from 1816-2012. The second chapter takes these dissatisfaction measures and uses them as features in a machine learning model which predicts international conflict onset. The third chapter explores spillover effects in social networks, demonstrating how causal forests can be employed to uncover spillover effect heterogeneity. Across these chapters, machine learning techniques are instrumental in modeling outcomes of interest and leveraging information from social networks.&lt;/p&gt;
