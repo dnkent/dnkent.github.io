@@ -36,11 +36,11 @@
     </item>
     
     <item>
-      <title>A Permutation Technique for Monitoring Effect Sizes</title>
+      <title>A Permutation-Based Changepoint Technique for Monitoring Effect Sizes</title>
       <link>https://dnkent.github.io/post/dynamic_effects/</link>
       <pubDate>Fri, 13 Mar 2020 15:15:01 -0400</pubDate>
       <guid>https://dnkent.github.io/post/dynamic_effects/</guid>
-      <description>&lt;p&gt;Download the paper &lt;a href=&#34;https://dnkent.github.io/files/perm_changepoint.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Download a draft &lt;a href=&#34;https://dnkent.github.io/files/perm_changepoint.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Across the social sciences scholars regularly pool effects over substantial periods of time, a practice that produces faulty inferences if the underlying data generating process is dynamic. To help researchers better perform principled analyses of time-varying processes, we develop a two-stage procedure based upon techniques for permutation testing and statistical process monitoring. Given time series cross-sectional data, we break the role of time through permutation inference and produce a null distribution that reflects a time-invariant data generating process. The null distribution then serves as a stable reference point, enabling the detection of effect changepoints. In Monte Carlo simulations our randomization technique outperforms alternatives for changepoint analysis. A particular benefit of our method is that, by establishing the bounds for time-invariant effects before interacting with actual estimates, it is able to differentiate stochastic fluctuations from genuine changes. We demonstrate the method&amp;rsquo;s utility by applying it to a popular study on the relationship between alliances and the initiation of militarized interstate disputes. The example illustrates how the technique can help researchers make inferences about where changes occur in dynamic relationships and ask important questions about such changes.&lt;/p&gt;
 </description>
     </item>
