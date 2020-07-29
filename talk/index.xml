@@ -5,7 +5,7 @@
     <link>https://dnkent.github.io/talk/</link>
       <atom:link href="https://dnkent.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching and Workshops</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dnkent.github.io/talk/featured.png</url>
       <title>Teaching and Workshops</title>
@@ -15,18 +15,19 @@
     <item>
       <title>Math Workshop for First-Year Ph.D. Students</title>
       <link>https://dnkent.github.io/talk/math-workshop/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://dnkent.github.io/talk/math-workshop/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;Many thanks to &lt;a href=&#34;https://www.asrosenberg.com/mathcamp&#34;&gt;Drew Rosenberg&lt;/a&gt; for designing this course. Any deficiencies are certainly due to my own tinkering.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;The course syllabus is available &lt;a href=&#34;https://dnkent.github.io/files/math_camp_syllabus.pdf&#34;&gt;here&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The course lectures notes are available &lt;a href=&#34;https://dnkent.github.io/files/math_camp_lectures_19.pdf&#34;&gt;here&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The course lectures notes are available &lt;a href=&#34;https://dnkent.github.io/files/math_camp_lectures_20.pdf&#34;&gt;here&lt;/a&gt;.&lt;/strong&gt; Students will be notified in advance of class if any notes are updated.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Course Description: The purpose of this workshop is to provide incoming first year Ph.D. students with some fundamental skills in various mathematical techniques that are used in political science, regardless of sub-specialty, and generally to prepare students for the first-year methods sequence. The workshop is also open to continuing students who feel that they would gain from participating in the course. This year the course will begin on Monday August 5th and run every weekday until Friday August 16th. Class sessions are tentatively scheduled to run from 09:00-12:30 with approximately a 20-30 minute break in between two 1.5 hour sessions. In addition, an optional introductory sequence to R computing is provided.&lt;/p&gt;
-&lt;p&gt;This workshop has a &amp;ldquo;semi-flipped&amp;rdquo; format, which means that I expect you to watch videos and do some reading ahead of each class. Each day I lecture on topics and sub-topics that I think need extra attention. Group work and other activities follow the lectures.&lt;/p&gt;
-&lt;p&gt;Below is the schedule and the appropriate videos to watch before each session. These videos are meant to supplement textbook reading, and spur class discussion. All of the videos are freely available from Khan Academy and YouTube. These videos are a minimum for each topic; however, going through additional ones, particularly for advanced topics, is suggested. Also, keep in mind that videos get taken down all the time for various reasons. If one is not available, then please let me know and do your best to find a replacement.&lt;/p&gt;
+&lt;p&gt;The purpose of this workshop is to provide incoming first year Ph.D. students with some fundamental skills in various mathematical techniques that are used in political science, regardless of sub-specialty, and generally to prepare students for the first-year methods sequence. The workshop is also open to continuing students who feel that they would gain from participating in the course. This year the course will begin on Monday August 10th and run every weekday until Friday August 21st.&lt;/p&gt;
+&lt;p&gt;In the past, classes have met in person for an extensive lecture, followed by students completing problem sets after class on their own. However, due to current circumstances, this year the class is being held in a &amp;ldquo;flipped&amp;rdquo; format. Students will complete the previous day&amp;rsquo;s problem set and review the current day&amp;rsquo;s course materials before our daily Zoom call. During this Zoom call &amp;ndash; from 9:00am &amp;ndash; 11:00am EST &amp;ndash; I will answers questions about the day&amp;rsquo;s topics and we will work through the previous day&amp;rsquo;s problem set as a group. These Zoom calls will be recorded and sent out to participating students so anyone can refer to the material if they are unable to attend or need additional clarification.&lt;/p&gt;
+&lt;p&gt;For the last three days of class, we will also cover some introductory programming in R from 1:00 &amp;ndash; 2:00pm EST.&lt;/p&gt;
+&lt;p&gt;Below is the schedule and the appropriate videos to watch before each session. &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h3 id=&#34;day-1-intro-notation-and-definitions-and-some-basic-mathematics&#34;&gt;Day 1: Intro, Notation and Definitions, and Some Basic Mathematics&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
