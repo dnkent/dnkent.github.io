@@ -40,7 +40,7 @@
       <link>https://dnkent.github.io/post/dynamic_effects/</link>
       <pubDate>Fri, 13 Mar 2020 15:15:01 -0400</pubDate>
       <guid>https://dnkent.github.io/post/dynamic_effects/</guid>
-      <description>&lt;p&gt;Download a draft &lt;a href=&#34;https://dnkent.github.io/files/perm_changepoint.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Download the article &lt;a href=&#34;https://dnkent.github.io/files/perm_changepoint_final.pdf&#34;&gt;here&lt;/a&gt; or at &lt;a href=&#34;https://doi.org/10.1017/pan.2020.44&#34;&gt;https://doi.org/10.1017/pan.2020.44&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Across the social sciences scholars regularly pool effects over substantial periods of time, a practice that produces faulty inferences if the underlying data generating process is dynamic. To help researchers better perform principled analyses of time-varying processes, we develop a two-stage procedure based upon techniques for permutation testing and statistical process monitoring. Given time series cross-sectional data, we break the role of time through permutation inference and produce a null distribution that reflects a time-invariant data generating process. The null distribution then serves as a stable reference point, enabling the detection of effect changepoints. In Monte Carlo simulations our randomization technique outperforms alternatives for changepoint analysis. A particular benefit of our method is that, by establishing the bounds for time-invariant effects before interacting with actual estimates, it is able to differentiate stochastic fluctuations from genuine changes. We demonstrate the method&amp;rsquo;s utility by applying it to a popular study on the relationship between alliances and the initiation of militarized interstate disputes. The example illustrates how the technique can help researchers make inferences about where changes occur in dynamic relationships and ask important questions about such changes.&lt;/p&gt;
 </description>
     </item>
@@ -50,20 +50,8 @@
       <link>https://dnkent.github.io/post/fear_terrorism/</link>
       <pubDate>Thu, 12 Mar 2020 14:51:57 -0400</pubDate>
       <guid>https://dnkent.github.io/post/fear_terrorism/</guid>
-      <description>&lt;p&gt;Download the paper &lt;a href=&#34;https://dnkent.github.io/files/skg-working-paper.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Download a draft of the paper &lt;a href=&#34;https://dnkent.github.io/files/skg-working-paper.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;An American’s yearly chance of being killed by a terrorist attack sits at roughly 1 in 3.5 million. Yet, over 40% of the American public consistently believes that they or their family members are likely to be the victim of a terror attack. Can these inflated estimates of the risks of terrorism be brought closer to reality? With trillions of dollars spent on the “War on Terror,” this question is not just theoretically but practically important. In order to investigate, we use an experimental approach assessing whether people update their core beliefs about the terror threat when given factual information about the risks it actually presents. We find that public fear of terrorism and demand for countering it can be sharply reduced with better information, dropping essentially to pre-9/11 levels after receiving the treatments and staying that way two weeks later. These results show that the American public’s exaggerated fear of terrorism – which has facilitated many of the country’s costly foreign policy decisions since 9/11 – is far more malleable and correctible than previously thought. In this sense, countering terrorism may largely require providing more context and perspective.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Predicting the Onset of Civil War</title>
-      <link>https://dnkent.github.io/post/ml_civil_war/</link>
-      <pubDate>Mon, 05 Aug 2019 15:56:17 -0400</pubDate>
-      <guid>https://dnkent.github.io/post/ml_civil_war/</guid>
-      <description>&lt;p&gt;Can machine learning techniques be used to predict the onset of civil wars? We find that tree-based models
-for machine learning, particularly gradient boosting machines, outperform canonical generalized linear models
-from the political science literature as predictors of intrastate violence. Moreover, we find support for a novel
-preditor of armed conflict &amp;ndash; the international arms trade network.&lt;/p&gt;
 </description>
     </item>
     
@@ -72,7 +60,8 @@ preditor of armed conflict &amp;ndash; the international arms trade network.&lt;
       <link>https://dnkent.github.io/post/isaf/</link>
       <pubDate>Mon, 05 Aug 2019 14:46:01 -0400</pubDate>
       <guid>https://dnkent.github.io/post/isaf/</guid>
-      <description>&lt;p&gt;Paper and replication files are available at: &lt;a href=&#34;https://github.com/CenterForPeaceAndSecurityStudies/ISAF&#34;&gt;https://github.com/CenterForPeaceAndSecurityStudies/ISAF&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Article available at &lt;a href=&#34;https://doi.org/10.1177/0022002720978800&#34;&gt;https://doi.org/10.1177/0022002720978800&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A pre-print version of the article and replication files are available at: &lt;a href=&#34;https://github.com/CenterForPeaceAndSecurityStudies/ISAF&#34;&gt;https://github.com/CenterForPeaceAndSecurityStudies/ISAF&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Why do states join wartime coalitions despite the absence of a salient threat or strong ties to the coalition leader? We argue states make unexpectedly high contributions to coalition warfare as a costly signal of their desire for a stronger relationship with the coalition leader. Conventional theories insufficiently explain why states without immediate security interests or strong ties to the lead state over-contribute relative to their capacity. Using newly compiled data on troop contributions to the war in Afghanistan (2001-2014), we find states are most likely to contribute a higher share of their armed forces when their relationship with the US has unrealized alliance potential. States with under-performing alignments leave substantial room for subsequent gains to be had from signaling their commitment to the leading coalition actor. Our finding helps explain why states risk the costs of war &amp;ndash; casualties and domestic accountability &amp;ndash; by participating in coalition warfare.&lt;/p&gt;
 </description>
     </item>

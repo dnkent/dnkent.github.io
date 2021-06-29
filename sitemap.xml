@@ -1,100 +1,57 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://dnkent.github.io/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dnkent.github.io/talk/math-workshop/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dnkent.github.io/talk/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dnkent.github.io/post/measuring-international-dissatisfaction/</loc>
     <lastmod>2020-03-15T17:20:37-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dnkent.github.io/post/</loc>
     <lastmod>2020-03-15T17:20:37-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dnkent.github.io/post/dynamic_effects/</loc>
     <lastmod>2020-03-13T15:15:01-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dnkent.github.io/authors/</loc>
     <lastmod>2020-03-13T15:15:01-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dnkent.github.io/authors/with-james-wilson-university-of-san-francisco-and-skyler-cranmer/</loc>
     <lastmod>2020-03-13T15:15:01-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dnkent.github.io/post/fear_terrorism/</loc>
     <lastmod>2020-03-12T14:51:57-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dnkent.github.io/authors/with-daniel-silverman-carnegie-mellon-university-and-christopher-gelpi/</loc>
     <lastmod>2020-03-12T14:51:57-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dnkent.github.io/post/ml_civil_war/</loc>
-    <lastmod>2019-08-05T15:56:17-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dnkent.github.io/post/isaf/</loc>
     <lastmod>2019-08-05T14:46:01-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dnkent.github.io/authors/with-j.-andres-gannon-ucsd/</loc>
     <lastmod>2019-08-05T14:46:01-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dnkent.github.io/project/isaf/</loc>
     <lastmod>2019-08-05T14:26:37-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dnkent.github.io/project/</loc>
     <lastmod>2019-08-05T14:26:37-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dnkent.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dnkent.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dnkent.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dnkent.github.io/publication/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dnkent.github.io/tags/</loc>
   </url>
-  
 </urlset>
